@@ -20,7 +20,7 @@ void display(int n, int a[])
 int main()
 {
     int n, a[100];
-    printf("Enter the size of array \n");
+    printf("Enter the value of n \n");
     scanf("%d", &n);
     input(n, a);
     display(n, a);
