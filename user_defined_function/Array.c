@@ -2,7 +2,7 @@
 #include <stdio.h>
 void input(int n, int a[])
 {
-    printf("Enter the array elements\n");
+    printf("Enter the array elements \n");
     for (int i = 0; i < n; i++)
     {
         scanf("%d", &a[i]);
@@ -10,7 +10,7 @@ void input(int n, int a[])
 }
 void display(int n, int a[])
 {
-    printf("The array elements are:\n");
+    printf("The array elements are: \n");
     for (int i = 0; i < n; i++)
     {
         printf("%d", a[i]);
