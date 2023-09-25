@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "/home/sunilnath/Documents/Coding/C programming/varaibles and Data Types",
+      "program": "/home/sunilnath/Documents/Coding/C programming/varaibles and Data Types/build/Debug/outDebug",
+      "MIMode": "lldb",
+      "miDebuggerPath": "/usr/bin/lldb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
