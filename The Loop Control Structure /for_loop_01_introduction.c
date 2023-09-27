@@ -1,3 +1,11 @@
+/*
+for loop
+syntax:
+for(initialization; condition; updation)
+{
+    loop body(C code);
+}
+*/
 #include<stdio.h>
 
 int main()
